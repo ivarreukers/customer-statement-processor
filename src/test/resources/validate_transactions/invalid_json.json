@@ -1,0 +1,32 @@
+[
+    "reference": null,
+    "accountNumber": "NL01ABN1234567890",
+    "description": "text",
+    "startBalance": 12.0,
+    "endBalance": 13.0,
+    "mutation": 1
+  },
+  {
+    "reference": 12345,
+    "accountNumber": null,
+    "description": "text",
+    "startBalance": 12.0,
+    "endBalance": 13.0,
+    "mutation": 1
+  },
+  {
+    "reference": 1234567,
+    "accountNumber": "NL01ABN1234567890",
+    "description": "text",
+    "startBalance": null,
+    "endBalance": 13.0,
+    "mutation": 1
+  },
+  {
+    "reference": 12345678,
+    "accountNumber": "NL01ABN1234567890",
+    "description": "text",
+    "startBalance": 12.0,
+    "endBalance": 13.0,
+    "mutation": null
+  }
